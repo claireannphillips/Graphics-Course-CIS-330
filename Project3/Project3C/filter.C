@@ -7,7 +7,6 @@ void Shrinker::Execute() {
     //we have pointers now to img so no more . we use the -> for pointer
 	int width  = img1->getWidth();
 	int height = img1->getHeight();
-    //halfw and halfh are too confusing just type out word claire lol
 	int halfWidth  = width/2;
 	int halfHeight = height/2;
 	
