@@ -1,2 +1,2 @@
-# Graphics-Course-CIS-330
+# Graphics Photo Editor 
  
